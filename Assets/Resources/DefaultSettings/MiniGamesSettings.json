@@ -1,0 +1,22 @@
+{
+  "Games": [
+    {
+      "MiniGameId": "Match2",
+      "MaxGameSessionCount": 3,
+      "RestoreTimeInSeconds": 2400,
+      "CountRestoredByAds": 1
+    },
+    {
+      "MiniGameId": "Match3",
+      "MaxGameSessionCount": 3,
+      "RestoreTimeInSeconds": 2400,
+      "CountRestoredByAds": 1
+    },
+    {
+      "MiniGameId": "Sudoku",
+      "MaxGameSessionCount": 10,
+      "RestoreTimeInSeconds": 600,
+      "CountRestoredByAds": 5
+    }
+  ]
+}
